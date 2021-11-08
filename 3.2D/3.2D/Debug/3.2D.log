@@ -1,0 +1,14 @@
+﻿  Pair.cpp
+C:\Users\YuriyVorobyov\source\repos\3.2D\3.2D\Pair.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Users\YuriyVorobyov\source\repos\3.2D\3.2D\Pair.cpp(38,15): warning C4101: 'c': unreferenced local variable
+  Rectangle_Private.cpp
+C:\Users\YuriyVorobyov\source\repos\3.2D\3.2D\Rectangle_Private.h(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Users\YuriyVorobyov\source\repos\3.2D\3.2D\Rectangle_Private.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Rectangle_Public.cpp
+C:\Users\YuriyVorobyov\source\repos\3.2D\3.2D\Rectangle_Public.h(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Users\YuriyVorobyov\source\repos\3.2D\3.2D\Rectangle_Public.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Source.cpp
+C:\Users\YuriyVorobyov\source\repos\3.2D\3.2D\Rectangle_Private.h(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Users\YuriyVorobyov\source\repos\3.2D\3.2D\Source.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Generating Code...
+  3.2D.vcxproj -> C:\Users\YuriyVorobyov\source\repos\3.2D\Debug\3.2D.exe

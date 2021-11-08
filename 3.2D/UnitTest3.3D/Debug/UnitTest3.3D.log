@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest3.3D.cpp
+C:\Users\YuriyVorobyov\source\repos\3.2D\UnitTest3.3D\UnitTest3.3D.cpp(3,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Users\YuriyVorobyov\source\repos\3.2D\3.2D\Pair.cpp(38,15): warning C4101: 'c': unreferenced local variable
+     Creating library C:\Users\YuriyVorobyov\source\repos\3.2D\Debug\UnitTest3.3D.lib and object C:\Users\YuriyVorobyov\source\repos\3.2D\Debug\UnitTest3.3D.exp
+  UnitTest3.3D.vcxproj -> C:\Users\YuriyVorobyov\source\repos\3.2D\Debug\UnitTest3.3D.dll
