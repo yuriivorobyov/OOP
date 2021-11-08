@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest2.3.cpp
+C:\Users\YuriyVorobyov\source\repos\2.3\UnitTest2.3\UnitTest2.3.cpp(19,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\YuriyVorobyov\source\repos\2.3\Debug\UnitTest2.3.lib and object C:\Users\YuriyVorobyov\source\repos\2.3\Debug\UnitTest2.3.exp
+  UnitTest2.3.vcxproj -> C:\Users\YuriyVorobyov\source\repos\2.3\Debug\UnitTest2.3.dll
