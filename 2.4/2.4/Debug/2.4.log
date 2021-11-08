@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Vector.cpp
+  Generating Code...
+C:\Users\YuriyVorobyov\source\repos\2.4\2.4\Vector.cpp(63): warning C4172: returning address of local variable or temporary: x
+C:\Users\YuriyVorobyov\source\repos\2.4\2.4\Vector.cpp(70): warning C4172: returning address of local variable or temporary
+  2.4.vcxproj -> C:\Users\YuriyVorobyov\source\repos\2.4\Debug\2.4.exe
